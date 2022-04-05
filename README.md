@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=albogdano&show_icons=true&count_private=true)
 
 <!--
 **albogdano/albogdano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
