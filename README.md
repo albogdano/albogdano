@@ -1,16 +1,14 @@
-![](https://github-readme-stats.vercel.app/api?username=albogdano&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=albogdano&show_icons=true&locale=en&title_color=2abbcf&icon_color=2abbcf&text_color=CECECE&bg_color=222222&count_private=true)
 
 <!--
-**albogdano/albogdano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This** is my ✨ _special_ ✨ repository
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: my tamper
+- 🌱 I’m currently learning: parenting
+- 👯 I’m looking to collaborate on: your lego build
+- 🤔 I’m looking for help with: my mental health
+- 💬 Ask me about: politics
+- 📫 How to reach me: try email
+- 😄 Pronouns: me/us
+- ⚡ Fun fact: I ain't fun
 -->
