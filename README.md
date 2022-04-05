@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=albogdano&show_icons=true&locale=en&title_color=2abbcf&icon_color=2abbcf&text_color=CECECE&bg_color=222222&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=albogdano&show_icons=true&locale=en&title_color=26a641&icon_color=26a641&text_color=CECECE&bg_color=222222&count_private=true)
 
 <!--
 **This** is my ✨ _special_ ✨ repository
