@@ -9,7 +9,7 @@ Hi all! 👋
 - 📫 How to reach me: try email or Gitter
 - ⚡ Fun fact: I have a huge Casio watch collection
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=albogdano&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy) </p>
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=albogdano&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)] </p>
 <!--
 **This** is my ✨ _special_ ✨ repository
 
