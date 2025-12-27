@@ -1,7 +1,6 @@
 Hi all! 👋
 
-👉 To all HR people visiting - currently, I'm not open to new job opportunities. Thanks!<br>
-👉 To all fellow solopreneurs and indie hackers - [follow my journey on Indie Hackers](https://www.indiehackers.com/albogdano).
+I'm Alex, an indie solo developer from Europe. [Follow my journey on Indie Hackers](https://www.indiehackers.com/albogdano).
 
 - 🔭 I’m currently working on: the Q&A platform Scoold and the backend server Para
 - 🌱 I’m currently learning: how to find a healthy work/life balance
