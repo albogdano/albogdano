@@ -8,9 +8,10 @@ I'm Alex, an indie solo developer from Europe. [Follow my journey on Indie Hacke
 - 📫 How to reach me: try email or Gitter
 - ⚡ Fun fact: I have a huge Casio watch collection
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=albogdano&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=albogdano&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 **This** is my ✨ _special_ ✨ repository
 
 - 🔭 I’m currently working on: my tamper
