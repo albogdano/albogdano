@@ -1,6 +1,7 @@
 Hi all! 👋
 
-I'm Alex, an indie solo developer from Europe. I’m currently working on: 
+I'm Alex, an indie solo developer from Europe, interested in B2B contracts and remote work.
+I’m currently working on: 
 
 - [Scoold](https://scoold.com) - the Q&A platform Scoold for teams
 - [Para](https://paraio.org) - the backend for busy developers
