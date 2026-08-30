@@ -1,4 +1,4 @@
-Hi all! 👋
+Hey! 👋
 
 I'm Alex, an indie solo developer from Europe, interested in B2B contracts and remote work.<br>
 I’m currently working on: 
