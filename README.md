@@ -10,6 +10,8 @@ I'm Alex, an indie solo developer from Europe. I’m currently working on:
 - I love building custom SFF PCs
 - I grew up in communist Eastern Europe
 
+📖 [My CV](CV.pdf)
+
 🚀 [Follow my journey on Indie Hackers](https://www.indiehackers.com/albogdano)
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=albogdano&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
