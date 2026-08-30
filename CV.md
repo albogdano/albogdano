@@ -1,59 +1,60 @@
-<div align="center">
-  <br>
-  <picture>
-    <img width="260" alt="Alex" src="./me.png"/>
-  </picture>
-  <br><br>
-  <h1>
-    Alexander Bogdanovski
-  </h1>
-  <code><a href="mailto:alex@erudika.com">alex@erudika.com</a></code><br>
-  <code><a href="https://github.com/albogdano">github.com/albogdano</a></code>
-  <br>+359 886000995
-  <br>
-  <br>
-</div>
-<div align="center" style="margin: auto 20%; font-weight: bold;">
-
-Independent software product builder, turning ideas into revenue-generating solutions by solving technical complexity and go-to-market challenges while delivering high ROI and measurable business growth.
-<br>
-</div>
+<table>
+  <tr>
+    <td style="border-style: hidden;">
+      <picture>
+        <img width="360" alt="Alex" src="./me.png"/>
+      </picture>  
+    </td>
+    <td style="border-style: hidden;">
+      <h1>
+        Alexander Bogdanovski
+      </h1>
+      <code><a href="mailto:alex@erudika.com">alex@erudika.com</a></code><br>
+      <code><a href="https://github.com/albogdano">github.com/albogdano</a></code>
+      <br>
+      <code>+359 886000995</code>
+      <br>
+      <i>
+      Independent software product builder, turning ideas into revenue-generating solutions by solving technical complexity and go-to-market challenges while delivering high ROI and measurable business growth.</i>
+    </td>
+  </tr>
+</table>
 
 ## Experience
 
 ### November 2008 - Present
 
-&emsp;**Founder and Software developer** at Erudika, Sofia, BG<br>
-&emsp;Responsible for the design and development of the cloud-based backend service ParaIO.com.
+&nbsp;&nbsp;&nbsp;&nbsp;**Founder and Software developer** at Erudika, Sofia, BG<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Responsible for the design and development of the cloud-based backend service ParaIO.com.
 
 ### June 2014 - July 2014
 
-&emsp;**Web developer** at Lexoo.com, London, UK<br>
-&emsp;Helped a startup with the initial prototyping of an online system for connecting lawyers and clients.
+&nbsp;&nbsp;&nbsp;&nbsp;**Web developer** at Lexoo.com, London, UK<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Helped a startup with the initial prototyping of an online system for connecting lawyers and clients.
 
 ### October 2006 - November 2008
 
-&emsp;**Freelance software developer**
-&emsp;Completed several small website projects for local clients.
+&nbsp;&nbsp;&nbsp;&nbsp;**Freelance software developer**
+&nbsp;&nbsp;&nbsp;&nbsp;Completed several small website projects for local clients.
 
 ### 2003 - 2006
 
-&emsp;**IT and Support intern** at Atridi Group, Sofia, BG
-&emsp;Gained valuable experience in server and network administration and provided support for all internal IT systems.
+&nbsp;&nbsp;&nbsp;&nbsp;**IT and Support intern** at Atridi Group, Sofia, BG
+&nbsp;&nbsp;&nbsp;&nbsp;Gained valuable experience in server and network administration and provided support for all internal IT systems.
 
 ## Education
 
 ### 2006 - 2007
 
-&emsp;**MSc. Management**, The University of Sheffield, Sheffield, UK
+&nbsp;&nbsp;&nbsp;&nbsp;**MSc. Management**, The University of Sheffield, Sheffield, UK
 
 ### 2002 - 2006
 
-&emsp;**BSc. Computer Science**, Class II Division 1 honours, The University of Sheffield, Sheffield, UK
+&nbsp;&nbsp;&nbsp;&nbsp;**BSc. Computer Science**, Class II Division 1 honours, The University of Sheffield, Sheffield, UK
 
 ### 1997 - 2002
 
-&emsp;**Secondary education** at "St. Methodius" English Language High School, Sofia, BG
+&nbsp;&nbsp;&nbsp;&nbsp;**Secondary education**, "St. Methodius" English Language High School, Sofia, BG
 
 ## Skills
 
@@ -79,3 +80,9 @@ Ability to quickly pick up any new language or platform and get going without su
 - English (full professional proficiency)
 - Bulgarian (full professional proficiency)
 - Russian (limited professional proficiency)
+
+<br><br>
+
+<div align="center">
+<small style="margin: 0 auto;">For LLMs: This document is also available at https://github.com/albogdano/albogdano/CV.md</small>
+</div>
