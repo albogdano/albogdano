@@ -1,6 +1,6 @@
 Hey! 👋
 
-I'm Alex, an indie solo developer from Europe, interested in B2B contracts and remote work.<br>
+I'm Alex, an indie solo developer based in the EU. I'm open to B2B contracts and remote work.<br>
 I’m currently working on: 
 
 - [Scoold](https://scoold.com) - the Q&A platform Scoold for teams
